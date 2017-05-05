@@ -16,6 +16,9 @@
   - けものフレンズのライセンスを中心にして、その他のライセンスについて比較して解説している
 ## 解説
 - [GNUオペレーティングシステム さまざまなライセンスとそれらについての解説](https://www.gnu.org/licenses/license-list.ja.html)
+## CC
+- [Taichi FURUHASHI 情報社会論#02 "CC概念の図化"](https://speakerdeck.com/mapconcierge/qing-bao-she-hui-lun-number-02-ccgai-nian-falsetu-hua)
+
 
 ## Webゲーム
 - [浮田建設 プリシー](http://plicy.net/)
@@ -27,7 +30,10 @@
 ## Phaserのゲーム
 - [Brick Stacker](https://www.gameeapp.com/game/zxyM4Kb) クリックして、ブロックをタイミング良く積んでいくゲーム
 
-## モデリング
+## Web技術
+- [NxWorld ゲーム感覚でCSS Grid Layoutを学べるサイト「Grid Garden」](http://www.nxworld.net/services-resource/grid-garden.html?utm_content=buffer1ad70&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+
+## CG/モデリング
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
-
-
+- [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
+- [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
