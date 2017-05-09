@@ -26,14 +26,19 @@
   - Unityやティラノスクリプトで開発した作品も公開できる
 - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
 
-## Webゲーム
+## Webゲーム開発
 - [paiza開発日誌 初心者でもJavaScriptでゲーム開発から公開まで可能！「WoofJS」エディタの完全チュートリアル！](http://paiza.hatenablog.com/entry/2017/04/07/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82JavaScript%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%BE%E3%81%A7%E5%8F%AF%E8%83%BD%EF%BC%81%E3%80%8CWoofJ)
+- [Webブラウザで3Dゲームが作れる nunu studio](https://nunustudio.org/)
 
 ## Phaserのゲーム
 - [Brick Stacker](https://www.gameeapp.com/game/zxyM4Kb) クリックして、ブロックをタイミング良く積んでいくゲーム
+- [GunFight](http://phaser.io/news/2017/05/gunfight-io) 物陰に隠れながら敵チームを倒していく協力プレイシューティング
+- [Paper Jam](http://phaser.io/news/2017/05/paper-jam) 紙にかかれたようなゲームワールドで的当てをしていく横画面ジャンプシューティング
+
 
 ## Web技術
 - [NxWorld ゲーム感覚でCSS Grid Layoutを学べるサイト「Grid Garden」](http://www.nxworld.net/services-resource/grid-garden.html?utm_content=buffer1ad70&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [collis 最近のデザインで使われている、ロゴ・ブランディング・Webサイトのガイドラインのまとめ](http://coliss.com/articles/build-websites/operation/design/design-guidelines-for-ui-logo-branding.html)
 
 ## CG/モデリング
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
