@@ -15,8 +15,8 @@
 - [チンパンジー言語訓練ブログ けものフレンズの二次創作ガイドラインについて①　～はじめに～](http://liuwusi.hatenablog.com/entry/2017/04/26/092436)
   - けものフレンズのライセンスを中心にして、その他のライセンスについて比較して解説している
 ## 解説
+- [福井健策 著作物って何？--文章・映像・音楽・写真…まずイメージをつかもう](https://japan.cnet.com/article/35047586/)
 - [GNUオペレーティングシステム さまざまなライセンスとそれらについての解説](https://www.gnu.org/licenses/license-list.ja.html)
-## CC
 - [Taichi FURUHASHI 情報社会論#02 "CC概念の図化"](https://speakerdeck.com/mapconcierge/qing-bao-she-hui-lun-number-02-ccgai-nian-falsetu-hua)
 
 ## 作品投稿
