@@ -18,7 +18,9 @@
 - [福井健策 著作物って何？--文章・映像・音楽・写真…まずイメージをつかもう](https://japan.cnet.com/article/35047586/)
 - [GNUオペレーティングシステム さまざまなライセンスとそれらについての解説](https://www.gnu.org/licenses/license-list.ja.html)
 - [Taichi FURUHASHI 情報社会論#02 "CC概念の図化"](https://speakerdeck.com/mapconcierge/qing-bao-she-hui-lun-number-02-ccgai-nian-falsetu-hua)
-
+- [立教大学図書館 引用・著作権](http://library.rikkyo.ac.jp/learning/reportguide/citation/)
+- [碓井真史 コピペ・代行で済まそうとしている学生さんへ：引用・転載・剽窃とは・その違いとは：著作権法と私文書偽造](https://news.yahoo.co.jp/byline/usuimafumi/20140322-00033799/)
+ 
 ## 作品投稿
 - [浮田建設 プリシー](http://plicy.net/)
   - ゲーム投稿サイト
