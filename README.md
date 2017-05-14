@@ -44,6 +44,26 @@
 - [collis 最近のデザインで使われている、ロゴ・ブランディング・Webサイトのガイドラインのまとめ](http://coliss.com/articles/build-websites/operation/design/design-guidelines-for-ui-logo-branding.html)
 
 ## CG/モデリング
+### ドット絵
+- [Photoshop Illustrator 名人会 GIF, JPEG, PNGの違いを理解して軽くてきれいな画像を作ろう](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
+- [Photoshop Illustrator 名人会 あのマリオが描ける！フォトショップを使ったドット絵の描き方 -photoshop-](http://photoshop-illustrator-meijinkai.info/photoshop-train/pixel-art)
+  - 基本的な設定
+- [Nazuna-Log Photoshopでドット絵！オススメの初期設定をご紹介](https://nazuna-log.net/post-451/)
+  - スポイトツールの設定
+- [Photoshop Illustrator 名人会 動くアイコンを作ろう！フォトショップを使ったGIFアニメーションの作り方](http://photoshop-illustrator-meijinkai.info/photoshop-train/timeline)
+  - 動くアイコンの作り方
+- [albatrus Photoshopでドット絵を描く時に便利な設定](http://albatrus.com/main/photoshop/4753)
+  - 「ベジェ曲線を利用する」
+- [面白法人KAYAC ドット絵描く楽な方法見つけた！気がする](http://design.kayac.com/topics/2012/02/post-47.php)
+  - イラストをドット絵にする
+- [シマダマヨ ドット絵を描いてみよう](http://news.mynavi.jp/articles/2016/01/02/dot/)
+  - ドット置きのコツ
+
+### 2Dのイラスト的な加工
+- [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
+  - 他にも様々な表現方法の記事がある
+
+### 3D
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
