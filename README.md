@@ -14,6 +14,9 @@
   - 公序良俗に反したり、アダルト系はNG
 - [チンパンジー言語訓練ブログ けものフレンズの二次創作ガイドラインについて①　～はじめに～](http://liuwusi.hatenablog.com/entry/2017/04/26/092436)
   - けものフレンズのライセンスを中心にして、その他のライセンスについて比較して解説している
+### UnityのAssetStoreのライセンス
+- https://unity3d.com/jp/legal/as_terms
+- [テラシュールブログ AssetStoreのライセンスとかEULAとか](http://tsubakit1.hateblo.jp/entry/20120827/1346079337)
 ## 解説
 - [特許庁 「知的な財産」について](https://www.jpo.go.jp/beginner/indexj.html)
 - [福井健策 著作物って何？--文章・映像・音楽・写真…まずイメージをつかもう](https://japan.cnet.com/article/35047586/)
