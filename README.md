@@ -74,3 +74,12 @@
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
+
+## サウンド
+- [ModPlug Central. OpenMPT](https://openmpt.org/)
+  - Windows用のフリーのトラッカーソフト
+    - Generalパネルに切り替えて、右上のボタンでフォーマットを選べる
+    - MOD(x), S3M(x), XM(△), IT(o), MPTM(orig) x=ピッチベンドが狂う/△=少し音が薄い/o=再現高い
+    - 容量はMODが一番小さい(XMやITの1/3程度)
+    - 再現度はitがよい。変換時は、Set Defaultsを押す
+
