@@ -1,5 +1,4 @@
-# fav-urls
-お気に入りリンク集。
+# お気に入りリンク集
 
 ## ライセンス
 ### ユニティちゃん
@@ -63,6 +62,8 @@
   - ドット置きのコツ
 - [LIG INC. Photoshopでゲームのようなドット絵を描く方法と設定＆おすすめツール](https://liginc.co.jp/web/design/photoshop/137843)
   - 中間色の使い方など
+- [CodeAndWeb GmbH. PhysicsEditor](https://www.codeandweb.com/physicseditor)
+  - 2D画像からPhysics用の当たり判定データを作成するツール
 
 ### 2Dのイラスト的な加工
 - [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
