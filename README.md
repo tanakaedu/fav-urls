@@ -76,6 +76,10 @@
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
 
+### タイルマップエディター
+- [Tile Map Editor](http://www.mapeditor.org/)
+  - フリーでも使えるタイルマップエディター。ダウンロード時に開発支援の寄付ができる
+
 ## サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
   - Windows用のフリーのトラッカーソフト
