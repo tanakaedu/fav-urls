@@ -79,6 +79,12 @@
 ### マップエディター
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター。ダウンロード時に開発支援の寄付ができる
+  - Unity, Phaser共に、簡単に読み込む手段がある
+  - Phaser http://phaser.io/docs/2.6.2/Phaser.Tilemap.html
+  - Unity http://doc.mapeditor.org/reference/support-for-tmx-maps/#unity-3d
+    - TMXファイルをUnityにコリジョンデータ含めて出力 http://www.seanba.com/introtiled2unity.html
+      - チュートリアル動画 https://www.youtube.com/watch?v=aDEN_eV-_oU
+        - 動画内で紹介されているマップチップ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) http://kenney.nl/assets/roguelike-rpg-pack
 
 ## サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
