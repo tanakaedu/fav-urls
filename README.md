@@ -86,6 +86,10 @@
       - チュートリアル動画 https://www.youtube.com/watch?v=aDEN_eV-_oU
         - 動画内で紹介されているマップチップ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) http://kenney.nl/assets/roguelike-rpg-pack
 
+## アセット配布サイト
+- https://opengameart.org/
+- http://kenney.nl
+
 ## サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
   - Windows用のフリーのトラッカーソフト
