@@ -88,3 +88,6 @@
     - 容量はMODが一番小さい(XMやITの1/3程度)
     - 再現度はitがよい。変換時は、Set Defaultsを押す
 
+## その他
+- [技術用語の発音](http://webrocketsmagazine.com/entry/20111201/what-do-you-read-css-property.html)
+
