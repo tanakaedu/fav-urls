@@ -13,16 +13,22 @@
   - 公序良俗に反したり、アダルト系はNG
 - [チンパンジー言語訓練ブログ けものフレンズの二次創作ガイドラインについて①　～はじめに～](http://liuwusi.hatenablog.com/entry/2017/04/26/092436)
   - けものフレンズのライセンスを中心にして、その他のライセンスについて比較して解説している
+
 ### UnityのAssetStoreのライセンス
 - https://unity3d.com/jp/legal/as_terms
 - [テラシュールブログ AssetStoreのライセンスとかEULAとか](http://tsubakit1.hateblo.jp/entry/20120827/1346079337)
-## 解説
+
+### 解説
 - [特許庁 「知的な財産」について](https://www.jpo.go.jp/beginner/indexj.html)
 - [福井健策 著作物って何？--文章・映像・音楽・写真…まずイメージをつかもう](https://japan.cnet.com/article/35047586/)
 - [GNUオペレーティングシステム さまざまなライセンスとそれらについての解説](https://www.gnu.org/licenses/license-list.ja.html)
 - [Taichi FURUHASHI 情報社会論#02 "CC概念の図化"](https://speakerdeck.com/mapconcierge/qing-bao-she-hui-lun-number-02-ccgai-nian-falsetu-hua)
 - [立教大学図書館 引用・著作権](http://library.rikkyo.ac.jp/learning/reportguide/citation/)
 - [碓井真史 コピペ・代行で済まそうとしている学生さんへ：引用・転載・剽窃とは・その違いとは：著作権法と私文書偽造](https://news.yahoo.co.jp/byline/usuimafumi/20140322-00033799/)
+
+### 関連のニュース
+- [ITmedia ソースコードまで酷似　「堀江貴文プロデュース」アイドルサイトに盗用多数　運営者が謝罪](http://www.itmedia.co.jp/news/articles/1705/22/news063.html)
+- [有賀正博 NAVERまとめのライターに無断転載の損害賠償を支払っていただいた件](https://www.photo-yatra.tokyo/blog/archives/12696)
  
 ## 作品投稿
 - [浮田建設 プリシー](http://plicy.net/)
