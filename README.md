@@ -81,6 +81,7 @@
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
+- [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
 
 ### マップエディター
 - [Tiled](http://www.mapeditor.org/)
