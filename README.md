@@ -76,12 +76,18 @@
   - 他にも様々な表現方法の記事がある
 
 ## 3D
+### MAYA
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
+
+### Blender
+- [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
+- [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
+
+### その他
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
-- [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
 
 ## マップエディター
 - [Tiled](http://www.mapeditor.org/)
