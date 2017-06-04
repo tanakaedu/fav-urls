@@ -75,7 +75,7 @@
 - [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
   - 他にも様々な表現方法の記事がある
 
-### 3D
+## 3D
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
@@ -83,7 +83,7 @@
 - [DVERSE Inc. Engineer Blog 【SketchUp講座】3Dロゴを作ろう](http://dverse.me/enginnerblog/2017/03/21/sketchup-lesson01/)
 - [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
 
-### マップエディター
+## マップエディター
 - [Tiled](http://www.mapeditor.org/)
   - フリーでも使えるタイルマップエディター。ダウンロード時に開発支援の寄付ができる
   - Unity, Phaser共に、簡単に読み込む手段がある
@@ -92,6 +92,15 @@
     - TMXファイルをUnityにコリジョンデータ含めて出力 http://www.seanba.com/introtiled2unity.html
       - チュートリアル動画 https://www.youtube.com/watch?v=aDEN_eV-_oU
         - 動画内で紹介されているマップチップ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) http://kenney.nl/assets/roguelike-rpg-pack
+
+## フォント
+- [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
+- [Fontna. フォントな。](http://www.fontna.com/)
+- [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
+  - 「ロゴデザインやタイトルロゴ、見出し向けの漢字も含まれる日本語フリーフォント」(HP紹介文より引用)
+  - 癖が少なく、使いやすそう
+- [itouhiro PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント](http://itouhiro.hatenablog.com/entry/20130602/font)
+  - 8bit風ゲームに似合うフォント
 
 ## アセット配布サイト
 - https://opengameart.org/
