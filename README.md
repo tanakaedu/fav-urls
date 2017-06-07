@@ -124,6 +124,10 @@
     - MOD(x), S3M(x), XM(△), IT(o), MPTM(orig) x=ピッチベンドが狂う/△=少し音が薄い/o=再現高い
     - 容量はMODが一番小さい(XMやITの1/3程度)
     - 再現度はitがよい。変換時は、Set Defaultsを押す
+- [魔法魂](http://maoudamashii.jokersounds.com/)
+- [効果音ラボ](http://soundeffect-lab.info/)
+- [甘茶の音楽工房](http://amachamusic.chagasi.com/)
+- [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 ## その他
 - [技術用語の発音](http://webrocketsmagazine.com/entry/20111201/what-do-you-read-css-property.html)
