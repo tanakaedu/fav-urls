@@ -132,3 +132,5 @@
 ## その他
 - [技術用語の発音](http://webrocketsmagazine.com/entry/20111201/what-do-you-read-css-property.html)
 - [安原祐二 クォータニオン完全マスター](https://www.dropbox.com/s/em7iqkax0771qb0/Unity%E9%81%93%E5%A0%B4%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%E5%8D%9A%E5%A4%9A-yasuhara.pdf?dl=0)
+- [Unity Technologies Japan G.K. Unityインターハイ　ブログ](http://inter-high-blog.unity3d.jp/2017/06/05/blogopen/)
+  - 企画の出し方など
