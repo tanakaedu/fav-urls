@@ -135,3 +135,5 @@
 - [Unity Technologies Japan G.K. Unityインターハイ　ブログ](http://inter-high-blog.unity3d.jp/2017/06/05/blogopen/)
   - 企画の出し方など
 - [.gitignoreを生成するサービス](https://www.gitignore.io/)
+- [ferret 誰でも1分で始められる！YouTubeでデスクトップキャプチャ動画を録画する方法](https://ferret-plus.com/3683)
+
