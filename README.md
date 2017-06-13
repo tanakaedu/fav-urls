@@ -116,6 +116,9 @@
 ## アセット配布サイト
 - https://opengameart.org/
 - http://kenney.nl
+- https://www.patreon.com
+  - クリエイター支援クラウドファンディングサービス
+  - https://www.lifehacker.jp/2013/06/130602patreon.html
 
 ## サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
