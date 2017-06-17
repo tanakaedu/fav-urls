@@ -143,4 +143,5 @@
   - 企画の出し方など
 - [.gitignoreを生成するサービス](https://www.gitignore.io/)
 - [ferret 誰でも1分で始められる！YouTubeでデスクトップキャプチャ動画を録画する方法](https://ferret-plus.com/3683)
+- [PC Watch. MicrosoftのAIがミズ・パックマンでカンスト達成](http://pc.watch.impress.co.jp/docs/news/yajiuma/1065496.html)
 
