@@ -73,6 +73,7 @@
   - 2D画像からPhysics用の当たり判定データを作成するツール
 
 ### 2Dのイラスト的な加工
+- [小樽総合デザイン事務局 初心者でもできる！写真をイラスト風に加工するチュートリアルまとめました：Photoshop](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
 - [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
   - 他にも様々な表現方法の記事がある
 
