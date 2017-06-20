@@ -77,6 +77,9 @@
 - [小樽総合デザイン事務局 Photoshop　5分でできる写真をドット絵風に加工する方法](http://otarunet.com/it/webdesign/photoshop-photo-dotto/)
   - 他にも様々な表現方法の記事がある
 
+### 素材リンク
+- [ティラノスクリプト 便利サイトリンク集](http://tyrano.jp/commu/link)
+
 ## 3D
 ### MAYA
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
