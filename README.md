@@ -81,6 +81,10 @@
 - [ティラノスクリプト 便利サイトリンク集](http://tyrano.jp/commu/link)
 
 ## 3D
+### MagicaVoxel
+- [MagicaVoxel](https://ephtracy.github.io/)
+  - ドット絵のように3Dオブジェクトを作れるツール
+
 ### MAYA
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
