@@ -138,6 +138,7 @@
 - [魔法魂](http://maoudamashii.jokersounds.com/)
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
+- [H/MIX GALLARY](http://www.hmix.net/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 ## ゲーム業界
