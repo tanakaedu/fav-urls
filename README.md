@@ -93,6 +93,9 @@
 - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
 - [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
 
+### xismo
+- [フリーの3Dモデリングソフト](http://mqdl.jpn.org/)
+
 ### その他
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
