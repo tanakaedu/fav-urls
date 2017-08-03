@@ -117,6 +117,7 @@
 
 
 ## フォント
+- [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 - [Fontna. フォントな。](http://www.fontna.com/)
 - [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
