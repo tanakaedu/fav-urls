@@ -84,6 +84,7 @@
 ### MagicaVoxel
 - [MagicaVoxel](https://ephtracy.github.io/)
   - ドット絵のように3Dオブジェクトを作れるツール
+- [daishi blog. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 
 ### MAYA
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
