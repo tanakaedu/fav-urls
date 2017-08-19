@@ -54,6 +54,8 @@
 
 ## CG/モデリング
 ### ドット絵
+- [Piskel](http://www.piskelapp.com/)
+  - アニメーションやピクセルアートのためのフリーのオンラインエディター
 - [Photoshop Illustrator 名人会 GIF, JPEG, PNGの違いを理解して軽くてきれいな画像を作ろう](http://photoshop-illustrator-meijinkai.info/photoshop-train/file-formats)
 - [Photoshop Illustrator 名人会 あのマリオが描ける！フォトショップを使ったドット絵の描き方 -photoshop-](http://photoshop-illustrator-meijinkai.info/photoshop-train/pixel-art)
   - 基本的な設定
