@@ -155,6 +155,7 @@
 - [小野 憲史 ゲーム開発のパイプライン](http://area.autodesk.jp/game/pipeline.html)
 
 ## その他
+- [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 - [ファミ通.com 『ゼルダの伝説　BotW』自然と寄り道してしまうレベルデザインのカギは、“引力”と“地形”！ 魅力的なハイラルができるまでを解説【CEDEC 2017】](https://www.famitsu.com/news/201708/31140870.html)
 - [まさとらん GitHubだけで超高機能なスライド資料が作れる「GitPitch」の使い方を徹底解説！](http://paiza.hatenablog.com/entry/2017/06/22/GitHub%E3%81%A0%E3%81%91%E3%81%A7%E8%B6%85%E9%AB%98%E6%A9%9F%E8%83%BD%E3%81%AA%E3%82%B9%E3%83%A9%E3%82%A4%E3%83%89%E8%B3%87%E6%96%99%E3%81%8C%E4%BD%9C%E3%82%8C%E3%82%8B%E3%80%8CGitPitch%E3%80%8D%E3%81%AE)
 - [技術用語の発音](http://webrocketsmagazine.com/entry/20111201/what-do-you-read-css-property.html)
