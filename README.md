@@ -116,7 +116,7 @@
 
 ## Unity関連
 - [F_ Unityと改行コード](http://www.f-sp.com/entry/2017/04/06/023709)
-
+- [Yasuyuki Niwa. 複数人でのＵｎｉｔｙ開発ノウハウ](https://www.slideshare.net/yasuyukiniwa3/ss-58785795)
 
 ## フォント
 - [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
