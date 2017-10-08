@@ -95,6 +95,7 @@
 ### Blender
 - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
 - [おもちゃラボ Blenderショートカットまとめ](http://nn-hokuson.hatenablog.com/entry/2016/06/28/220014)
+- [Blenderで簡単に人体ボーンを設定する](https://docs.unity3d.com/jp/540/Manual/BlenderAndRigify.html)
 
 ### xismo
 - [フリーの3Dモデリングソフト](http://mqdl.jpn.org/)
