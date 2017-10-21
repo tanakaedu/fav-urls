@@ -167,4 +167,4 @@
 - [ferret 誰でも1分で始められる！YouTubeでデスクトップキャプチャ動画を録画する方法](https://ferret-plus.com/3683)
 - [PC Watch. MicrosoftのAIがミズ・パックマンでカンスト達成](http://pc.watch.impress.co.jp/docs/news/yajiuma/1065496.html)
 - [安藤圭吾 Unity Editor拡張マニュアル](https://anchan828.github.io/editor-manual/web/index.html)
-
+- [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
