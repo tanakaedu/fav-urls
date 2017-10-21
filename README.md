@@ -89,6 +89,7 @@
 - [daishi blog. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
 
 ### MAYA
+- [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
 
