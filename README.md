@@ -156,6 +156,16 @@
 - [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
 - [小野 憲史 ゲーム開発のパイプライン](http://area.autodesk.jp/game/pipeline.html)
 
+## AR
+- [UnityでARToolkit](http://tsubakit1.hateblo.jp/entry/2016/09/24/202728)
+- [Experimenting with multiplayer ARCore and ARKit: jump in with sample code](https://blogs.unity3d.com/jp/2017/11/01/experimenting-with-multiplayer-arcore-and-arkit-jump-in-with-sample-code/)
+- [AR comes to Android with the ARCore SDK](https://blogs.unity3d.com/jp/2017/08/29/ar-comes-to-android-with-the-arcore-sdk/)
+
+## AI
+- [Unity AI – Reinforcement Learning with Q-Learning](https://blogs.unity3d.com/jp/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/)
+- [Unity AI-themed Blog Entries](https://blogs.unity3d.com/jp/2017/06/26/unity-ai-themed-blog-entries/)
+- [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
+
 ## その他
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 - [ファミ通.com 『ゼルダの伝説　BotW』自然と寄り道してしまうレベルデザインのカギは、“引力”と“地形”！ 魅力的なハイラルができるまでを解説【CEDEC 2017】](https://www.famitsu.com/news/201708/31140870.html)
