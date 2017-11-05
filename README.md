@@ -162,6 +162,12 @@
 - [AR comes to Android with the ARCore SDK](https://blogs.unity3d.com/jp/2017/08/29/ar-comes-to-android-with-the-arcore-sdk/)
 
 ## AI
+### ml-agents(Machine Learning Agents)について
+- [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
+  - [Readme](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
+- [Unity 2017 で Machine Learning Agents を使ってみる](https://qiita.com/dora-gt/items/bacce436de2a3cdb1ef4)
+
+### 記事など色々
 - [Unity AI – Reinforcement Learning with Q-Learning](https://blogs.unity3d.com/jp/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/)
 - [Unity AI-themed Blog Entries](https://blogs.unity3d.com/jp/2017/06/26/unity-ai-themed-blog-entries/)
 - [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
