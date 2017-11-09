@@ -165,7 +165,6 @@
 ### ml-agents(Machine Learning Agents)について
 - [Unity-Technologies/ml-agents](https://github.com/Unity-Technologies/ml-agents)
   - [Readme](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Readme.md)
-  - [Unity ml-agents関連のドキュメント](https://github.com/Unity-Technologies/ml-agents/tree/master/docs)
 - [Unity 2017 で Machine Learning Agents を使ってみる](https://qiita.com/dora-gt/items/bacce436de2a3cdb1ef4)
 
 ### 記事など色々
