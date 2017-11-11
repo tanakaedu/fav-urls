@@ -149,6 +149,9 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [H/MIX GALLARY](http://www.hmix.net/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
+- [PEKO STEP. 効果音メーカー](https://www.peko-step.com/tool/soundeffect/)
+  - Webブラウザーで波形や音量をいじって効果音を作成できるツール
+  - Waveで保存可能
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
 
