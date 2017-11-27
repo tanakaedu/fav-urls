@@ -1,5 +1,9 @@
 # お気に入りリンク集
 
+## 設計や言語
+- [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
+- [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
+
 ## ライセンス
 ### ユニティちゃん
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
@@ -19,6 +23,7 @@
 - [テラシュールブログ AssetStoreのライセンスとかEULAとか](http://tsubakit1.hateblo.jp/entry/20120827/1346079337)
 
 ### 解説
+- [特許庁. 知財教材「デザイナーが身につけておくべき知財の基本」](https://www.jpo.go.jp/shiryou/s_sonota/chizai_kyozai-designer-kihon.htm)
 - [オープンソース・ライセンスの談話室 自作ソースコードに、MITライセンスを適用する３つのやり方](http://www.catch.jp/oss-license/2013/09/27/mit_license/)
 - [特許庁 「知的な財産」について](https://www.jpo.go.jp/beginner/indexj.html)
 - [福井健策 著作物って何？--文章・映像・音楽・写真…まずイメージをつかもう](https://japan.cnet.com/article/35047586/)
@@ -37,6 +42,10 @@
   - アクションゲームを作るツールが使える
   - Unityやティラノスクリプトで開発した作品も公開できる
 - [naichilab. Unity 1週間ゲームジャム](https://unityroom.com/unity1weeks)
+
+## シェーダー
+- [SEGA TECH BLOG. TAが勉強を兼ねてモバイル向け電光掲示板シェーダー書いてみた](http://techblog.sega.jp/entry/2017/11/27/100000)
+- [汗人柱. ノードベースでシェーダ作りのAmplifyを触ってみました。エディタの操作性、学習コスト、サンプルデモを大量に紹介！](http://assetsale.hateblo.jp/entry/Amplify_Shader_Editor)
 
 ## Webゲーム開発
 - [paiza開発日誌 初心者でもJavaScriptでゲーム開発から公開まで可能！「WoofJS」エディタの完全チュートリアル！](http://paiza.hatenablog.com/entry/2017/04/07/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82JavaScript%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%BE%E3%81%A7%E5%8F%AF%E8%83%BD%EF%BC%81%E3%80%8CWoofJ)
@@ -129,6 +138,7 @@
   - 癖が少なく、使いやすそう
 - [itouhiro PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント](http://itouhiro.hatenablog.com/entry/20130602/font)
   - 8bit風ゲームに似合うフォント
+- [coliss. 無料で商用利用できるSVGのフリーアイコン4,500種類、デザインに合わせたカスタマイズもできるのはすごい！](http://coliss.com/articles/freebies/svg-icon-library-orion.html)
 
 ## アセット配布サイト
 - https://opengameart.org/
@@ -174,6 +184,9 @@
 - [Unity AI – Reinforcement Learning with Q-Learning](https://blogs.unity3d.com/jp/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/)
 - [Unity AI-themed Blog Entries](https://blogs.unity3d.com/jp/2017/06/26/unity-ai-themed-blog-entries/)
 - [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
+
+## デザイン
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## その他
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
