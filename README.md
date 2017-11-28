@@ -140,6 +140,8 @@
 - [itouhiro PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント](http://itouhiro.hatenablog.com/entry/20130602/font)
   - 8bit風ゲームに似合うフォント
 - [coliss. 無料で商用利用できるSVGのフリーアイコン4,500種類、デザインに合わせたカスタマイズもできるのはすごい！](http://coliss.com/articles/freebies/svg-icon-library-orion.html)
+- [Fontworks. 年間定額制フォントサービス](https://lets-site.jp/)
+  - 有料のフォントサービス。入会金3万円+3年コース24,000円/年 or 36,000円/年 いずれも税別
 
 ## アセット配布サイト
 - https://opengameart.org/
