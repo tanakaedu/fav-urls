@@ -131,14 +131,15 @@
 - [Yasuyuki Niwa. 複数人でのＵｎｉｔｙ開発ノウハウ](https://www.slideshare.net/yasuyukiniwa3/ss-58785795)
 
 ## フォント
-- [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
-- [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 - [Fontna. フォントな。](http://www.fontna.com/)
-- [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
-  - 「ロゴデザインやタイトルロゴ、見出し向けの漢字も含まれる日本語フリーフォント」(HP紹介文より引用)
-  - 癖が少なく、使いやすそう
+  - [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
+    - 「ロゴデザインやタイトルロゴ、見出し向けの漢字も含まれる日本語フリーフォント」(HP紹介文より引用)
+    - 癖が少なく、使いやすそう
+- [FONT FREE.](http://fontfree.me/)
+- [ゲームに使えるフォント](http://wikinavi.net/vipgamecreator/index.php?%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E4%BD%BF%E3%81%88%E3%82%8B%E3%83%95%E3%82%A9%E3%83%B3%E3%83%88)
 - [itouhiro PixelMplus（ピクセル・エムプラス） ‥ 8bitビットマップふうフリーフォント](http://itouhiro.hatenablog.com/entry/20130602/font)
   - 8bit風ゲームに似合うフォント
+- [FONT BEAR.NET 商用OKなフリーフォントを検索](https://fontbear.net/)
 - [coliss. 無料で商用利用できるSVGのフリーアイコン4,500種類、デザインに合わせたカスタマイズもできるのはすごい！](http://coliss.com/articles/freebies/svg-icon-library-orion.html)
 - [Fontworks. 年間定額制フォントサービス](https://lets-site.jp/)
   - 有料のフォントサービス。入会金3万円+3年コース24,000円/年 or 36,000円/年 いずれも税別
