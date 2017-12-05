@@ -206,3 +206,4 @@
 - [安藤圭吾 Unity Editor拡張マニュアル](https://anchan828.github.io/editor-manual/web/index.html)
 - [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
 - [赤崎 弘幸. チュートリアル / Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](https://area.autodesk.jp/column/tutorial/chara_maya/01/)
+- [@orangesuzuki. エフェクト作成ツール「Effekseer」の魅力](https://qiita.com/orangesuzuki/items/477cb2ee68edf65a0d0d)
