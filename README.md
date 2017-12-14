@@ -132,6 +132,7 @@
 - [Yasuyuki Niwa. 複数人でのＵｎｉｔｙ開発ノウハウ](https://www.slideshare.net/yasuyukiniwa3/ss-58785795)
 
 ## フォント
+- [coliss. 2018年用、日本語のフリーフォント312種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](http://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
 - [Fontna. フォントな。](http://www.fontna.com/)
   - [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
     - 「ロゴデザインやタイトルロゴ、見出し向けの漢字も含まれる日本語フリーフォント」(HP紹介文より引用)
