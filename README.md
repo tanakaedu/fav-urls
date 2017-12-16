@@ -152,6 +152,7 @@
 - https://www.patreon.com
   - クリエイター支援クラウドファンディングサービス
   - https://www.lifehacker.jp/2013/06/130602patreon.html
+- [Sketchfab. 3D作品をWeb上で公開](https://sketchfab.com/)
 - [Turbo Squide. 3Dモデル配布・販売サイト](https://www.turbosquid.com)
 - [Hightend3D. 3Dモデル配布・販売サイト](https://www.highend3d.com)
 
