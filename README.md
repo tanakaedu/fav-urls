@@ -133,6 +133,8 @@
 
 ## フォント
 - [coliss. 2018年用、日本語のフリーフォント312種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](http://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+- https://www.fontsquirrel.com/
+  - アプリ埋め込みが可能なものから検索などが可能な英語フォント紹介サイト
 - [Fontna. フォントな。](http://www.fontna.com/)
   - [ロゴたいぷゴシック](http://www.fontna.com/blog/1226/)
     - 「ロゴデザインやタイトルロゴ、見出し向けの漢字も含まれる日本語フリーフォント」(HP紹介文より引用)
