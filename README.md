@@ -64,6 +64,8 @@
 - [facebookincubator. Reactの簡単インストール環境](https://github.com/facebookincubator/create-react-app)
 
 ## CG/モデリング
+- エフェクトのチュートリアルなど https://www.g-angle.co.jp/blog/animation/
+
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
   - アニメーションやピクセルアートのためのフリーのオンラインエディター
