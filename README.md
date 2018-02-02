@@ -109,7 +109,7 @@
 - [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
   - [サンプルデータのダウンロード](http://www.jetstudio.co.jp/news/cedec2017-download/)
-  - IDとパスワードはこちらの動画を参照 https://www.youtube.com/watch?time_continue=237&v=dDaju5M28rU
+  - IDとパスワードはこちらの動画を参照 https://www.youtube.com/watch?time_continue=237&v=dDaju5M28rU ( https://youtu.be/dDaju5M28rU?t=59m4s )
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 
 ### Blender
