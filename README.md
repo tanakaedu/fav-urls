@@ -108,6 +108,7 @@
 - [MAYA公式. アーティザン ホットキーを使用する](https://knowledge.autodesk.com/ja/support/maya/learn-explore/caas/CloudHelp/cloudhelp/2016/JPN/Maya/files/GUID-D3E0C098-C385-43F0-A125-525847301EB6-htm.html)
 - [Chara@Maya ライブ！～キャラクターセットアップからUE4への出力～](https://area.autodesk.jp/movie/cedec-2017/chara-maya-live.html?mktvar002=723725&utm_medium=social-pd&utm_source=twitter&utm_campaign=japa-me-jp-area-japan-promotion-fy18&utm_id=723725)
 - [赤崎弘幸@株式会社ジェットスタジオ Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](http://area.autodesk.jp/column/tutorial/chara_maya/)
+  - [サンプルデータのダウンロード](http://www.jetstudio.co.jp/news/cedec2017-download/)
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
 
 ### Blender
