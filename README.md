@@ -111,6 +111,8 @@
   - [サンプルデータのダウンロード](http://www.jetstudio.co.jp/news/cedec2017-download/)
   - IDとパスワードはこちらの動画を参照 https://www.youtube.com/watch?time_continue=237&v=dDaju5M28rU ( https://youtu.be/dDaju5M28rU?t=59m4s )
 - [AUTODESK Maya Learning Channel](http://area.autodesk.jp/movie/maya-learning-channel/)
+- [Unity & Autodesk 最新ゲームパイプライン紹介ウェビナー ～Maya 2018.1とUnity 2017.3でFBXファイル互換は一体どうなったのか？～](https://youtu.be/0awywk4IqRU)
+- [インディゾーン. MAYAとUnityの連携](http://maya.indyzone.jp/tag/unity/)
 
 ### Blender
 - [hiroshi harada. Blender入門2.7版](http://www.blender3d.biz/)
