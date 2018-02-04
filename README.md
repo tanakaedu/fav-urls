@@ -182,6 +182,7 @@
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [H/MIX GALLARY](http://www.hmix.net/)
+- [音楽の卵](http://ontama-m.com/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 - [PEKO STEP. 効果音メーカー](https://www.peko-step.com/tool/soundeffect/)
   - Webブラウザーで波形や音量をいじって効果音を作成できるツール
