@@ -192,6 +192,7 @@
   - Waveで保存可能
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
+- [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
 
 ## ゲーム業界
 - [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
