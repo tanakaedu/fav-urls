@@ -174,7 +174,7 @@
 - [Hightend3D. 3Dモデル配布・販売サイト](https://www.highend3d.com)
 - [iOS アプリを無料で公開しませんか？ 「プロ生ちゃん アプリ開発支援プログラム」のお知らせ](http://pronama.azurewebsites.net/2016/10/12/pronama-chan-developer-support-program/#QklTTtU.twitter_tweet_count_m)
 
-## サウンド
+## オーディオ / サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
   - Windows用のフリーのトラッカーソフト
     - Generalパネルに切り替えて、右上のボタンでフォーマットを選べる
@@ -192,6 +192,8 @@
   - Waveで保存可能
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
+- [mp3DirectCut](https://freesoft-100.com/review/mp3directcut.php)
+  - オーディオファイルを編集するフリーウェア
 - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
 
 ## ゲーム業界
