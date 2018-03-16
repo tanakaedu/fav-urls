@@ -1,5 +1,8 @@
 # お気に入りリンク集
 
+## 数学とか
+- [予備校講師 鴫原の部屋（別館１）. 数学ハイパーテキストしりーず](http://www.geocities.co.jp/Technopolis/1505/math_index.htm)
+
 ## 設計や言語
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
