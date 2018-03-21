@@ -7,6 +7,10 @@
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 
+## ポートフォリオ
+- [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
+- [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
+
 ## ライセンス
 ### ユニティちゃん
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
