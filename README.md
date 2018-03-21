@@ -44,6 +44,7 @@
 - [有賀正博 NAVERまとめのライターに無断転載の損害賠償を支払っていただいた件](https://www.photo-yatra.tokyo/blog/archives/12696)
  
 ## 作品投稿
+- [ティラノスクリプトコンテスト](https://novelgame.jp/fes2018/about)
 - [浮田建設 プリシー](http://plicy.net/)
   - ゲーム投稿サイト
   - アクションゲームを作るツールが使える
