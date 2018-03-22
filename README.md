@@ -132,6 +132,8 @@
 - [フリーの3Dモデリングソフト](http://mqdl.jpn.org/)
 
 ### その他
+- [『THE COMPREHENSIVE PBR GUIDE Volume 1: The Theory of PBR by Allegorithmic』私家訳版](https://www.slideshare.net/nyaakobayashi/pbr-guide-vol1jp)
+- [『THE COMPREHENSIVE PBR GUIDE – Vol. 2: Practical guidelines for creating PBR textures 』私家訳版](https://www.slideshare.net/nyaakobayashi/70100srgb180255?ref=http://3dnchu.com/archives/allegorithmic-pbr-guide-vol2-jp/)
 - [Unityライティングのチュートリアル](https://www.youtube.com/watch?v=VnG2gOKV9dw&feature=youtu.be)
 - [Live2D Euclid](http://www.live2d.com/ja/products/euclid)
 - [Live2D Cubism3](http://www.live2d.com/ja/products/cubism3)
@@ -181,6 +183,7 @@
 - [Turbo Squide. 3Dモデル配布・販売サイト](https://www.turbosquid.com)
 - [Hightend3D. 3Dモデル配布・販売サイト](https://www.highend3d.com)
 - [iOS アプリを無料で公開しませんか？ 「プロ生ちゃん アプリ開発支援プログラム」のお知らせ](http://pronama.azurewebsites.net/2016/10/12/pronama-chan-developer-support-program/#QklTTtU.twitter_tweet_count_m)
+- [テクスチャー関連を公開している](https://www.textures.com)
 
 ## オーディオ / サウンド
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
