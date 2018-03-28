@@ -223,6 +223,7 @@
 - [Unity 2017 で Machine Learning Agents を使ってみる](https://qiita.com/dora-gt/items/bacce436de2a3cdb1ef4)
 
 ### 記事など色々
+- [ITMedia. 自然な音声作る「WaveNet」の衝撃　なぜ機械は人と話せるようになったのか](http://www.itmedia.co.jp/news/articles/1803/27/news053.html)
 - [Unity AI – Reinforcement Learning with Q-Learning](https://blogs.unity3d.com/jp/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/)
 - [Unity AI-themed Blog Entries](https://blogs.unity3d.com/jp/2017/06/26/unity-ai-themed-blog-entries/)
 - [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
