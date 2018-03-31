@@ -72,6 +72,7 @@
 - [collis 最近のデザインで使われている、ロゴ・ブランディング・Webサイトのガイドラインのまとめ](http://coliss.com/articles/build-websites/operation/design/design-guidelines-for-ui-logo-branding.html)
 - [aws. Amazonが提供予定のWebブラウザーベースのゲームエンジン](https://aws.amazon.com/jp/blogs/aws/launch-presenting-amazon-sumerian/)
 - [facebookincubator. Reactの簡単インストール環境](https://github.com/facebookincubator/create-react-app)
+- [アプリ開発で知っておきたい認証技術 - OAuth 1.0 + OAuth 2.0 + OpenID Connect -](https://www.slideshare.net/ngzm/oauth-10-oauth-20-openid-connect)
 
 ## CG/モデリング
 - エフェクトのチュートリアルなど https://www.g-angle.co.jp/blog/animation/
