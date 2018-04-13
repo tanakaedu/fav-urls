@@ -204,8 +204,8 @@
   - Waveで保存可能
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
-- [mp3DirectCut](https://freesoft-100.com/review/mp3directcut.php)
-  - オーディオファイルを編集するフリーウェア
+- [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
+  - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
 
 ## ゲーム業界
