@@ -11,6 +11,9 @@
 - [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
 - [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
 
+## デザイナー向けニュース
+- [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
+
 ## ライセンス
 ### ユニティちゃん
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
