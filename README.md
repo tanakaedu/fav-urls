@@ -56,6 +56,7 @@
 - [汗人柱. ノードベースでシェーダ作りのAmplifyを触ってみました。エディタの操作性、学習コスト、サンプルデモを大量に紹介！](http://assetsale.hateblo.jp/entry/Amplify_Shader_Editor)
 
 ## Webゲーム開発
+- [[秋葉原] Unity x Photonハンズオン「Photonの仕組みを知ろう編」※初心者向け](https://weeyble-game.connpass.com/event/85277/?utm_campaign=new_event_links_to_group_member&utm_source=notifications&utm_medium=email&utm_content=text_link)
 - [paiza開発日誌 初心者でもJavaScriptでゲーム開発から公開まで可能！「WoofJS」エディタの完全チュートリアル！](http://paiza.hatenablog.com/entry/2017/04/07/%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A7%E3%82%82JavaScript%E3%81%A7%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E3%81%8B%E3%82%89%E5%85%AC%E9%96%8B%E3%81%BE%E3%81%A7%E5%8F%AF%E8%83%BD%EF%BC%81%E3%80%8CWoofJ)
 - [Webブラウザで3Dゲームが作れる nunu studio](https://nunustudio.org/)
 
