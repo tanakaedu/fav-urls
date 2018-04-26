@@ -14,6 +14,8 @@
 ## デザイナー向けニュース
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
 
+- [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+
 ## ライセンス
 ### ユニティちゃん
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
