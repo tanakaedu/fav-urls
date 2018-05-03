@@ -160,6 +160,7 @@
         - 動画内で紹介されているマップチップ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) http://kenney.nl/assets/roguelike-rpg-pack
 
 ## Unity関連
+- [baba_s. 【Visual Studio 2017】ドキュメント保存時に改行コードを自動で統一できる「Line Endings Unifier」紹介](http://baba-s.hatenablog.com/entry/2018/03/14/165900)
 - [F_ Unityと改行コード](http://www.f-sp.com/entry/2017/04/06/023709)
 - [Yasuyuki Niwa. 複数人でのＵｎｉｔｙ開発ノウハウ](https://www.slideshare.net/yasuyukiniwa3/ss-58785795)
 - [Unity Asset Graph](https://docs.google.com/document/d/1yTkHZch5EaDBCria6I3Xy5UtqrfFx8n9jU1WHre-w0U/edit)
