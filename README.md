@@ -116,10 +116,12 @@
 - [ティラノスクリプト 便利サイトリンク集](http://tyrano.jp/commu/link)
 
 ## 3D
-### MagicaVoxel
+### Voxel
 - [MagicaVoxel](https://ephtracy.github.io/)
   - ドット絵のように3Dオブジェクトを作れるツール
 - [daishi blog. MagicaVoxelで作ったプリキュアをUnityで動かす](http://github.dev7.jp/b/2015/12/15/precureadv20151213/#.WYNRTC70CQo.twitter)
+- [QUBICLE](http://www.minddesk.com/)
+  - プロ向けVoxelエディター
 
 ### MAYA
 - [DIGITAL FRONTIER. Paint Skin Weightの調整方法（初心者向け）](https://dftalk.jp/?p=17978)
