@@ -271,3 +271,4 @@
 - [RFC. MUST, MUST NOTなど、要求レベルを表すキーワード](http://www.ietf.org/rfc/rfc2119.txt)
 - [赤崎 弘幸. チュートリアル / Chara@Maya～Maya 2016で気軽にはじめるキャラクター制作～](https://area.autodesk.jp/column/tutorial/chara_maya/01/)
 - [@orangesuzuki. エフェクト作成ツール「Effekseer」の魅力](https://qiita.com/orangesuzuki/items/477cb2ee68edf65a0d0d)
+- [リクナビNEXTジャーナル. 「こいつの“お願い”聞きたくないな…」と思われる“依頼メール”には、大事な４つのポイントがない](https://next.rikunabi.com/journal/20171121_m1/)
