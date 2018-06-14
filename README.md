@@ -249,6 +249,7 @@
 
 ## ゲームデザイン
 - [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
+- [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
 
 ## コーディング
 ### アルゴリズム
