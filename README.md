@@ -61,6 +61,8 @@
 - [汗人柱. ノードベースでシェーダ作りのAmplifyを触ってみました。エディタの操作性、学習コスト、サンプルデモを大量に紹介！](http://assetsale.hateblo.jp/entry/Amplify_Shader_Editor)
 - [setchi’s blog. 「楽しい！Unityシェーダーお絵描き入門！」という講演をしました](http://setchi.hatenablog.com/entry/2018/04/15/195928)
 - [小林 信行. CEDEC2017 アーティストのためのリアルタイムシェーダー学習法](https://www.slideshare.net/nyaakobayashi/cedec2017)
+- https://unity3d.com/jp/get-unity/download/archive
+  - 対応バージョンの部分をクリックすると、ビルトインシェーダーの項目があるのでそこからソースをダウンロードできる
 
 ## Webゲーム開発
 - [フレンズひらたソフト. よくわかるPhotonの仕組みハンズオン！](http://friends-hirata-soft.com/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8Bphoton%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%EF%BC%81/)
