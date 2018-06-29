@@ -87,6 +87,8 @@
 
 ## CG/モデリング
 - エフェクトのチュートリアルなど https://www.g-angle.co.jp/blog/animation/
+- pixiv. VRoid https://vroid.pixiv.net/
+  - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
 
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
