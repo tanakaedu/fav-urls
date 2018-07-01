@@ -89,6 +89,8 @@
 - エフェクトのチュートリアルなど https://www.g-angle.co.jp/blog/animation/
 - pixiv. VRoid https://vroid.pixiv.net/
   - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
+- [renderhjs  Blender Addon: FBX Bundle](https://bitbucket.org/renderhjs/blender-addon-fbx-bundle)
+  - [3D人. FBX Bundle - BlenderからのFBXファイル書き出し効率化アドオン！ゲームエンジン使用者必見！](http://3dnchu.com/archives/fbx-bundle-for-blender/)
 
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
