@@ -195,6 +195,7 @@
 
 ## アセット配布サイト
 - https://opengameart.org/
+- http://pixelgameart.org/web/
 - http://kenney.nl
 - https://www.patreon.com
   - クリエイター支援クラウドファンディングサービス
