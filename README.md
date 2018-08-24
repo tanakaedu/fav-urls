@@ -15,6 +15,7 @@
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
 
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
+- [ファミ通.com. モンスターハンター：ワールド』開発を支えた“アーティストが作ったシェーダー”とは？【CEDEC 2018】](https://www.famitsu.com/news/201808/23162839.html)
 
 ## ライセンス
 ### ユニティちゃん
