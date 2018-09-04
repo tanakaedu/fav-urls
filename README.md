@@ -12,6 +12,7 @@
 - [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
 
 ## デザイナー向けニュース
+- [DeNA. DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/archives/726)
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
 
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
