@@ -152,6 +152,15 @@
 ### xismo
 - [フリーの3Dモデリングソフト](http://mqdl.jpn.org/)
 
+### テクスチャーなど
+- [cc0textures.com. CC0のPBRテクスチャー素材集]https://cc0textures.com/home
+- [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
+  - CC0とは
+    - 世界全地域において著作権法上認められる、その者が持つすべての権利（その作品に関する権利や隣接する権利を含む。）を、法令上認められる最大限の範囲で放棄して、パブリック・ドメインに提供
+    - 営利目的であっても、許可を得ずに複製、改変・翻案、配布、上演・演奏することが出来る
+    - 著作者の詐称は認められない
+    - 参考：https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+
 ### その他
 - [『THE COMPREHENSIVE PBR GUIDE Volume 1: The Theory of PBR by Allegorithmic』私家訳版](https://www.slideshare.net/nyaakobayashi/pbr-guide-vol1jp)
 - [『THE COMPREHENSIVE PBR GUIDE – Vol. 2: Practical guidelines for creating PBR textures 』私家訳版](https://www.slideshare.net/nyaakobayashi/70100srgb180255?ref=http://3dnchu.com/archives/allegorithmic-pbr-guide-vol2-jp/)
