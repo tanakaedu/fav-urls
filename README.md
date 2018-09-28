@@ -279,6 +279,10 @@
   - 競技プログラミング・アルゴリズムを練習する目的で運営されているサイト
 - [@neuecc. Deep Dive async/await in Unity](https://www.slideshare.net/neuecc/deep-dive-asyncawait-in-unity-with-unitaskunirxasync?ref=https://twitter.com/i/cards/tfw/v1/1040897417325899776?cardname=player&autoplay_disabled=true&forward=true&earned=true&edge=true&lang=ja&card_height=130&scribe_context=%7B%22client%22%3A%22web%22%2C%22page%22%3A%22home%22%2C%22section%22%3A%22home%22%2C%22component%22%3A%22tweet%22%7D&bearer_token=AAAAAAAAAAAAAAAAAAAAAPYXBAAAAAAACLXUNDekMxqa8h%252F40K4moUkGsoc%253DTYfbDKbT3jJPCEVnMYqilB28NHfOPqkca3qaAxGfsyKCs0wRbw)
 
+### 便利なもの
+- [日本語から変数や関数名の候補を示してくれる](https://codic.jp)
+
+
 ## その他
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 - [ファミ通.com 『ゼルダの伝説　BotW』自然と寄り道してしまうレベルデザインのカギは、“引力”と“地形”！ 魅力的なハイラルができるまでを解説【CEDEC 2017】](https://www.famitsu.com/news/201708/31140870.html)
