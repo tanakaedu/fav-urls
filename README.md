@@ -180,6 +180,7 @@
         - 動画内で紹介されているマップチップ([CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)) http://kenney.nl/assets/roguelike-rpg-pack
 
 ## Unity関連
+- [Unity UI の最適化に関するヒント](https://unity3d.com/jp/how-to/unity-ui-optimization-tips)
 - [【CEDEC2018】開発計画に役に立つUnityロードマップ](https://www.slideshare.net/UnityTechnologiesJapan/cedec2018unity)
 - [baba_s. 【Visual Studio 2017】ドキュメント保存時に改行コードを自動で統一できる「Line Endings Unifier」紹介](http://baba-s.hatenablog.com/entry/2018/03/14/165900)
 - [F_ Unityと改行コード](http://www.f-sp.com/entry/2017/04/06/023709)
