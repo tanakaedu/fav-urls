@@ -283,6 +283,17 @@
 ### 便利なもの
 - [日本語から変数や関数名の候補を示してくれる](https://codic.jp)
 
+## Unity以外のゲームエンジン
+- [Unreal Engine4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)
+- [cocos2d-x](http://www.cocos2d-x.org/)
+
+### まだ評価中
+- [Amazon Lumberyard](https://aws.amazon.com/jp/lumberyard/)
+  - 高性能そうだがβ版
+- [defold](https://forum.defold.com/)
+  - 新しく採用実績が不明
+- [Phaser](https://phaser.io/)
+  - 日本ではあまりメジャーではない
 
 ## その他
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
