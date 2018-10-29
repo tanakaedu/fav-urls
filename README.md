@@ -192,6 +192,7 @@
 
 ## フォント
 - [coliss. 2018年用、日本語のフリーフォント312種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](http://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+- [フォントの試し書き](https://tameshigaki.jp/)
 - https://www.fontsquirrel.com/
   - アプリ埋め込みが可能なものから検索などが可能な英語フォント紹介サイト
 - [Fontna. フォントな。](http://www.fontna.com/)
