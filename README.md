@@ -160,6 +160,7 @@
     - 営利目的であっても、許可を得ずに複製、改変・翻案、配布、上演・演奏することが出来る
     - 著作者の詐称は認められない
     - 参考：https://creativecommons.org/publicdomain/zero/1.0/deed.ja
+- [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
 ### その他
 - [『THE COMPREHENSIVE PBR GUIDE Volume 1: The Theory of PBR by Allegorithmic』私家訳版](https://www.slideshare.net/nyaakobayashi/pbr-guide-vol1jp)
