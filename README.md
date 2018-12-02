@@ -235,6 +235,7 @@
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
 - [H/MIX GALLARY](http://www.hmix.net/)
 - [音楽の卵](http://ontama-m.com/)
+- [フリーの音楽・効果音素材サイト「Soundrium」](https://miacat.net/2018/12/02/post-2217/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 - [PEKO STEP. 効果音メーカー](https://www.peko-step.com/tool/soundeffect/)
   - Webブラウザーで波形や音量をいじって効果音を作成できるツール
