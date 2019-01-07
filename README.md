@@ -275,6 +275,7 @@
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 
 ## ゲームデザイン
+- [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
 - [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
 - [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
 
