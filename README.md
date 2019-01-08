@@ -273,6 +273,8 @@
 
 ## デザイン
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+- [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 
 ## ゲームデザイン
 - [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
