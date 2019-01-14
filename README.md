@@ -11,6 +11,7 @@
 - [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
 - [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
+- [Hakone's portfolio](http://hakone-gamedev.strikingly.com/)
 
 ## デザイナー向けニュース
 - [DeNA. DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/archives/726)
