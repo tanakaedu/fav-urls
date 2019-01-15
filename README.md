@@ -193,6 +193,7 @@
 - [JetBrains. Rider](https://www.jetbrains.com/rider/download)
   - Visual Studioの代わりになる開発環境。学生は無料利用あり
 - [Unity Technologies. UnitySingleton](https://github.com/UnityCommunity/UnitySingleton)
+- [DeployGate. 開発中のiOS/Androidアプリを簡単にテスターや開発チームメンバーと共有](https://deploygate.com/)
 
 ## フォント
 - [coliss. 2018年用、日本語のフリーフォント312種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](http://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
