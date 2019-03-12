@@ -284,6 +284,7 @@
 - [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
 - [ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
 - [Unity Global Student Challenge](https://blogs.unity3d.com/jp/2019/03/07/announcing-the-unity-global-student-challenge-winners/)
+- [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
 
 ## プログラミング
 ### アルゴリズム
