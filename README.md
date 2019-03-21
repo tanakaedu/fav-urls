@@ -127,6 +127,9 @@
 - [ティラノスクリプト 便利サイトリンク集](http://tyrano.jp/commu/link)
 - [もうアイコン素材に困らない！CC0でSVG完備、420種類のシンプルにデザインされたアイコン素材 -Evericons](https://coliss.com/articles/freebies/free-svg-icons-evericons.html)
 
+### モーション
+- [Michael Jones. Motion Design 101](https://mobile.twitter.com/Yamoshin/status/1108308562411839488)
+
 ## 3D
 ### Voxel
 - [MagicaVoxel](https://ephtracy.github.io/)
