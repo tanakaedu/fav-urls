@@ -20,6 +20,15 @@
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
 - [ファミ通.com. モンスターハンター：ワールド』開発を支えた“アーティストが作ったシェーダー”とは？【CEDEC 2018】](https://www.famitsu.com/news/201808/23162839.html)
 
+## ゲームデザイン
+- [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
+- [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
+- [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
+- [ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
+- [Unity Global Student Challenge](https://blogs.unity3d.com/jp/2019/03/07/announcing-the-unity-global-student-challenge-winners/)
+- [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
+- [［GDC 2019］ゲームメカニクスだけに依存しない，面白いゲームの作り方。その技術を支える「6つの動詞」とは](https://www.4gamer.net/games/999/G999905/20190321021/)
+
 ## ライセンス
 ### ユニティちゃん
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
@@ -96,6 +105,11 @@
   - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
 - [renderhjs  Blender Addon: FBX Bundle](https://bitbucket.org/renderhjs/blender-addon-fbx-bundle)
   - [3D人. FBX Bundle - BlenderからのFBXファイル書き出し効率化アドオン！ゲームエンジン使用者必見！](http://3dnchu.com/archives/fbx-bundle-for-blender/)
+
+## グラフィックデザイン
+- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
+- [個人開発のUI設計術](https://crieit.net/posts/UI)
+- [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
@@ -275,19 +289,6 @@
 - [Unity AI – Reinforcement Learning with Q-Learning](https://blogs.unity3d.com/jp/2017/08/22/unity-ai-reinforcement-learning-with-q-learning/)
 - [Unity AI-themed Blog Entries](https://blogs.unity3d.com/jp/2017/06/26/unity-ai-themed-blog-entries/)
 - [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
-
-## デザイン
-- [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
-- [個人開発のUI設計術](https://crieit.net/posts/UI)
-- [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
-
-## ゲームデザイン
-- [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
-- [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
-- [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
-- [ゲームAI の原点『パックマン』はいかにして生み出されたのか？](https://jsai.ixsq.nii.ac.jp/ej/?action=pages_view_main&active_action=repository_view_main_item_detail&item_id=9670&item_no=1&page_id=13&block_id=23)
-- [Unity Global Student Challenge](https://blogs.unity3d.com/jp/2019/03/07/announcing-the-unity-global-student-challenge-winners/)
-- [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
 
 ## プログラミング
 ### アルゴリズム
