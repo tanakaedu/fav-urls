@@ -143,6 +143,9 @@
 
 ### モーション
 - [Michael Jones. Motion Design 101](https://mobile.twitter.com/Yamoshin/status/1108308562411839488)
+- [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
+  - カメラ画像から3Dモデルの姿勢データを作成する
+  - [OpenPoseライセンス](https://ch.nicovideo.jp/miu200521358/blomaga/ar1686913)
 
 ## 3D
 ### Voxel
