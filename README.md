@@ -318,6 +318,9 @@
 - [Phaser](https://phaser.io/)
   - 日本ではあまりメジャーではない
 
+## 1週間ゲームジャム参考作品
+- [シンプルでも評価を得られる例](https://unityroom.com/games/tunagirl)
+
 ## その他
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
