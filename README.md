@@ -105,6 +105,7 @@
   - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
 - [renderhjs  Blender Addon: FBX Bundle](https://bitbucket.org/renderhjs/blender-addon-fbx-bundle)
   - [3D人. FBX Bundle - BlenderからのFBXファイル書き出し効率化アドオン！ゲームエンジン使用者必見！](http://3dnchu.com/archives/fbx-bundle-for-blender/)
+- [AREA JAPAN. チュートリアル / Mayaで始めるゲーム用ローポリキャラモデル](https://area.autodesk.jp/column/tutorial/maya-lowpoly/01-model-design/)
 
 ## グラフィックデザイン
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
