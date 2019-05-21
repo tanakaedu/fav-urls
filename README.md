@@ -112,6 +112,7 @@
 - [個人開発のUI設計術](https://crieit.net/posts/UI)
 - [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 - [カラースキームジェネレーター](https://coolors.co/)
+- [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
 
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
