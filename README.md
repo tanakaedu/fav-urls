@@ -12,6 +12,8 @@
 - [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
 - [Hakone's portfolio](http://hakone-gamedev.strikingly.com/)
+- [すとレ. 「夜」から脱出する、架空のゲームのコンセプトアート](https://twitter.com/sto1e/status/1035504979820208128)
+
 
 ## デザイナー向けニュース
 - [DeNA. DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/archives/726)
