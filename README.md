@@ -333,6 +333,7 @@
   - シンプルでも評価を得られる例
 
 ## その他
+- [ぴぃたぁそると. 絵描きにとっての一年はデカい](https://twitter.com/pe_salt/status/1132135055587926016)
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
 - [ファミ通.com 『ゼルダの伝説　BotW』自然と寄り道してしまうレベルデザインのカギは、“引力”と“地形”！ 魅力的なハイラルができるまでを解説【CEDEC 2017】](https://www.famitsu.com/news/201708/31140870.html)
