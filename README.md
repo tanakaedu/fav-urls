@@ -102,6 +102,7 @@
 - [アプリ開発で知っておきたい認証技術 - OAuth 1.0 + OAuth 2.0 + OpenID Connect -](https://www.slideshare.net/ngzm/oauth-10-oauth-20-openid-connect)
 
 ## CG/モデリング
+- [チュートリアル / Mayaで始めるゲーム用ローポリキャラモデル](https://twitter.com/autodesk_me_jp/status/1134404713682620416)
 - エフェクトのチュートリアルなど https://www.g-angle.co.jp/blog/animation/
 - pixiv. VRoid https://vroid.pixiv.net/
   - 人型アバター（キャラクター）の3Dモデルを作成できるWindows・Mac用アプリケーションで無償で利用可能の予定
