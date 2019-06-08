@@ -279,7 +279,8 @@
 - [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
 - [小野 憲史 ゲーム開発のパイプライン](http://area.autodesk.jp/game/pipeline.html)
 
-## AR
+## XR
+- [こりん. Unity＋HTC Vive開発メモ](https://framesynthesis.jp/tech/unity/htcvive/)
 - [UnityでARToolkit](http://tsubakit1.hateblo.jp/entry/2016/09/24/202728)
 - [Experimenting with multiplayer ARCore and ARKit: jump in with sample code](https://blogs.unity3d.com/jp/2017/11/01/experimenting-with-multiplayer-arcore-and-arkit-jump-in-with-sample-code/)
 - [AR comes to Android with the ARCore SDK](https://blogs.unity3d.com/jp/2017/08/29/ar-comes-to-android-with-the-arcore-sdk/)
