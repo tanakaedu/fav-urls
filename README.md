@@ -254,12 +254,7 @@
 - [テクスチャー関連を公開している](https://www.textures.com)
 
 ## オーディオ / サウンド
-- [ModPlug Central. OpenMPT](https://openmpt.org/)
-  - Windows用のフリーのトラッカーソフト
-    - Generalパネルに切り替えて、右上のボタンでフォーマットを選べる
-    - MOD(x), S3M(x), XM(△), IT(o), MPTM(orig) x=ピッチベンドが狂う/△=少し音が薄い/o=再現高い
-    - 容量はMODが一番小さい(XMやITの1/3程度)
-    - 再現度はitがよい。変換時は、Set Defaultsを押す
+### 素材
 - [魔法魂](http://maoudamashii.jokersounds.com/)
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
@@ -267,14 +262,25 @@
 - [音楽の卵](http://ontama-m.com/)
 - [フリーの音楽・効果音素材サイト「Soundrium」](https://miacat.net/2018/12/02/post-2217/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
+
+### 自作
+- [ModPlug Central. OpenMPT](https://openmpt.org/)
+  - Windows用のフリーのトラッカーソフト
+    - Generalパネルに切り替えて、右上のボタンでフォーマットを選べる
+    - MOD(x), S3M(x), XM(△), IT(o), MPTM(orig) x=ピッチベンドが狂う/△=少し音が薄い/o=再現高い
+    - 容量はMODが一番小さい(XMやITの1/3程度)
+    - 再現度はitがよい。変換時は、Set Defaultsを押す
 - [PEKO STEP. 効果音メーカー](https://www.peko-step.com/tool/soundeffect/)
   - Webブラウザーで波形や音量をいじって効果音を作成できるツール
   - Waveで保存可能
 - [Unity Technologies Japan. クリックするだけで効果音を自動生成する「bfxr」](http://inter-high-blog.unity3d.jp/2017/08/09/bfxr/)
   - [効果音作成ツールBfxr](http://www.bfxr.net/)
+
+### 加工
 - [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
   - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
+- [AudioCutter. MP3などをトリミングできる](https://mp3cut.net/ja/)
 
 ## ゲーム業界
 - [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
