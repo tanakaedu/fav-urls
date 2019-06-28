@@ -16,7 +16,6 @@
 
 
 ## デザイナー向けニュース
-- [DeNA. DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/archives/726)
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
 
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
@@ -224,7 +223,7 @@
 - [DeployGate. 開発中のiOS/Androidアプリを簡単にテスターや開発チームメンバーと共有](https://deploygate.com/)
 
 ## フォント
-- [coliss. 2018年用、日本語のフリーフォント312種類のまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](http://coliss.com/articles/freebies/japanese-free-fonts-for-2018.html)
+- [coliss. 2019年用、日本語のフリーフォントまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
 - [フォントの試し書き](https://tameshigaki.jp/)
 - https://www.fontsquirrel.com/
   - アプリ埋め込みが可能なものから検索などが可能な英語フォント紹介サイト
@@ -281,7 +280,7 @@
 - [Audacity](https://forest.watch.impress.co.jp/library/software/audacity/)
   - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
-- [AudioCutter. MP3などをトリミングできる](https://mp3cut.net/ja/)
+- [AudioCutter. MP3などをトリミングできるサイト](https://mp3cut.net/ja/)
 
 ## ゲーム業界
 - [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
@@ -337,6 +336,8 @@
   - 高性能そうだがβ版
 - [defold](https://forum.defold.com/)
   - 新しく採用実績が不明
+- [Egret Engine](https://www.egret.com/en/products/engine.html)
+  - 中国発のHTML5ゲームエンジン
 - [Phaser](https://phaser.io/)
   - 日本ではあまりメジャーではない
 
