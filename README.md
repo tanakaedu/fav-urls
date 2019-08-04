@@ -154,6 +154,9 @@
   - カメラ画像から3Dモデルの姿勢データを作成する
   - [OpenPoseライセンス](https://ch.nicovideo.jp/miu200521358/blomaga/ar1686913)
 
+### 動画
+- [ぐるたか. Twitterにキレイな動画をアップロードする方法](https://gurutaka-log.com/ffmpeg-twitter)
+
 ## 3D
 ### Voxel
 - [MagicaVoxel](https://ephtracy.github.io/)
