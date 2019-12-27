@@ -324,9 +324,13 @@
 - [@neuecc. Deep Dive async/await in Unity](https://www.slideshare.net/neuecc/deep-dive-asyncawait-in-unity-with-unitaskunirxasync?ref=https://twitter.com/i/cards/tfw/v1/1040897417325899776?cardname=player&autoplay_disabled=true&forward=true&earned=true&edge=true&lang=ja&card_height=130&scribe_context=%7B%22client%22%3A%22web%22%2C%22page%22%3A%22home%22%2C%22section%22%3A%22home%22%2C%22component%22%3A%22tweet%22%7D&bearer_token=AAAAAAAAAAAAAAAAAAAAAPYXBAAAAAAACLXUNDekMxqa8h%252F40K4moUkGsoc%253DTYfbDKbT3jJPCEVnMYqilB28NHfOPqkca3qaAxGfsyKCs0wRbw)
 - [オブジェクト指向とは](https://jp.quora.com/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%A7%E3%81%99%E3%81%8B/answers/123165842?share=7e9263d2)
 
-
 ### 便利なもの
 - [日本語から変数や関数名の候補を示してくれる](https://codic.jp)
+
+### 開発スタイル
+- [ZenHub Blog. How the ZenHub Team Uses ZenHub Boards on GitHub](https://www.zenhub.com/blog/how-the-zenhub-team-uses-zenhub-boards-on-github/)
+  - [@yoheimuta. 意訳](https://qiita.com/yoheimuta/items/ddf4b278f3db79ce2a8f#zenhub-board-%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9)
+  
 
 ## Unity関連
 - [Unity Blog. 最適化の最前線](https://blogs.unity3d.com/jp/2019/11/14/tales-from-the-optimization-trenches/)
