@@ -150,6 +150,7 @@
 - [ぴぽや倉庫](https://pipoya.net/sozai/)
 
 ### モーション
+- [Gigazine. ディズニーのアニメの動きがまるで生きているように感じる秘密がわかる「キャラクターに命を吹き込む12の法則」](https://gigazine.net/news/20140508-the-illusion-of-life/)
 - [Michael Jones. Motion Design 101](https://mobile.twitter.com/Yamoshin/status/1108308562411839488)
 - [OpenPose](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   - カメラ画像から3Dモデルの姿勢データを作成する
