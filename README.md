@@ -49,6 +49,7 @@
 - [テラシュールブログ AssetStoreのライセンスとかEULAとか](http://tsubakit1.hateblo.jp/entry/20120827/1346079337)
 
 ### 解説
+- [JAGDA. グラフィックデザイナーのための知的財産権ハンドブック](https://www.jagda.or.jp/archive/pub/ipr/chizai.php)
 - [特許庁. 知財教材「デザイナーが身につけておくべき知財の基本」](https://www.jpo.go.jp/shiryou/s_sonota/chizai_kyozai-designer-kihon.htm)
 - [オープンソース・ライセンスの談話室 自作ソースコードに、MITライセンスを適用する３つのやり方](http://www.catch.jp/oss-license/2013/09/27/mit_license/)
 - [特許庁 「知的な財産」について](https://www.jpo.go.jp/beginner/indexj.html)
