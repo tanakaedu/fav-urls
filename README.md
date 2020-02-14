@@ -1,5 +1,10 @@
 # お気に入りリンク集
 
+## ゲーム業界
+- [任天堂. 仕事を読み解くキーワード](https://www.nintendo.co.jp/jobs/keyword/index.html)
+- [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
+- [小野 憲史 ゲーム開発のパイプライン](http://area.autodesk.jp/game/pipeline.html)
+
 ## 数学とか
 - [予備校講師 鴫原の部屋（別館１）. 数学ハイパーテキストしりーず](http://www.geocities.co.jp/Technopolis/1505/math_index.htm)
 
@@ -288,10 +293,6 @@
   - オーディオファイルを編集するフリーウェア。編集 -> クリップの境界で分割すると、プチノイズを発生させずにトリミングができるので便利
 - [AudioTrimmer MP3などをトリミングできるサイト](https://audiotrimmer.com/)
 - [AudioCutter. MP3などをトリミングできるサイト](https://mp3cut.net/ja/)
-
-## ゲーム業界
-- [小野 憲史 ゲーム業界の仕事](http://area.autodesk.jp/game/jobs.html)
-- [小野 憲史 ゲーム開発のパイプライン](http://area.autodesk.jp/game/pipeline.html)
 
 ## XR
 - [こりん. Unity＋HTC Vive開発メモ](https://framesynthesis.jp/tech/unity/htcvive/)
