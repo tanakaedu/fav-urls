@@ -18,7 +18,7 @@
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
 - [Hakone's portfolio](http://hakone-gamedev.strikingly.com/)
 - [すとレ. 「夜」から脱出する、架空のゲームのコンセプトアート](https://twitter.com/sto1e/status/1035504979820208128)
-
+- [Marie Dealessandri. ビデオゲームライターになるための簡易ガイド](https://jp.gamesindustry.biz/article/2004/20040103/)
 
 ## デザイナー向けニュース
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
