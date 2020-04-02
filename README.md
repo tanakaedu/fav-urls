@@ -34,6 +34,7 @@
 - [Unity Global Student Challenge](https://blogs.unity3d.com/jp/2019/03/07/announcing-the-unity-global-student-challenge-winners/)
 - [かえるD. なぜ作ったゲームが面白くならないのか？基礎にして奥義「フロー理論」](https://note.mu/kaerusanu/n/nc80f9523bb8e)
 - [［GDC 2019］ゲームメカニクスだけに依存しない，面白いゲームの作り方。その技術を支える「6つの動詞」とは](https://www.4gamer.net/games/999/G999905/20190321021/)
+- [Twine. インターラクティブなストーリー作成のためのオープンソースツール](https://twinery.org/)
 
 ## 仕様書
 - [Sugimoto Chizuru, 仕様書作成の分業とリストの作成 ](https://www.slideshare.net/ChizuruSugimoto/ss-173331109?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1232511224073654274)
