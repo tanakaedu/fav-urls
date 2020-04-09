@@ -36,8 +36,12 @@
 - [［GDC 2019］ゲームメカニクスだけに依存しない，面白いゲームの作り方。その技術を支える「6つの動詞」とは](https://www.4gamer.net/games/999/G999905/20190321021/)
 - [Twine. インターラクティブなストーリー作成のためのオープンソースツール](https://twinery.org/)
 
+### 紹介動画など
+- [Palladium Soft](https://store.steampowered.com/app/1137110/Ballistic_Craft/)
+
 ## 仕様書
 - [Sugimoto Chizuru, 仕様書作成の分業とリストの作成 ](https://www.slideshare.net/ChizuruSugimoto/ss-173331109?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1232511224073654274)
+
 
 ## ライセンス
 ### ユニティちゃん
