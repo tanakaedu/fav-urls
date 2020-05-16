@@ -27,6 +27,7 @@
 - [ファミ通.com. モンスターハンター：ワールド』開発を支えた“アーティストが作ったシェーダー”とは？【CEDEC 2018】](https://www.famitsu.com/news/201808/23162839.html)
 
 ## ゲームデザイン
+- [tnk. 「斬新さ」から考えるゲーム開発](https://speakerdeck.com/tnk1987/zhan-xin-sa-karakao-erugemukai-fa-unity1week-onlinegong-you-hui-number-1)
 - [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
 - [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
 - [謎解き制作どっとこむ](http://nazotokimatome.at-ninja.jp/)
