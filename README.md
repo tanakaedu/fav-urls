@@ -286,6 +286,7 @@
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
 
 ### 自作
+- [kanのメモ帳. パラメーター調整で好みの音へ簡単にカスタマイズできるファンタジー系効果音作成ツール DSP Fantasy](https://kan-kikuchi.hatenablog.com/entry/DSP_Fantasy)
 - [ModPlug Central. OpenMPT](https://openmpt.org/)
   - Windows用のフリーのトラッカーソフト
     - Generalパネルに切り替えて、右上のボタンでフォーマットを選べる
