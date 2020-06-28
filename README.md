@@ -134,6 +134,9 @@
 - [PhotoshopでUIデザインできるアセット](https://github.com/kyubuns/Baum2)
 - [カラースキームジェネレーター](https://coolors.co/)
 - [Anna Mészáros. デザイナーではない人がデザインする上で大切な4つの基本原則](https://gigazine.net/news/20190518-fundamental-design-principles/)
+- [ひろはす ゲームクリエイター養成所. デザインの基本である配色を解説します](https://www.youtube.com/watch?v=Knpj-iEhfy4)
+- [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
+
 
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
