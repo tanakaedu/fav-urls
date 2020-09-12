@@ -159,7 +159,7 @@
 - [CodeAndWeb GmbH. PhysicsEditor](https://www.codeandweb.com/physicseditor)
   - 2D画像からPhysics用の当たり判定データを作成するツール
 - https://dotpict.net/
-  - ドット絵講座など
+  - ドット絵メイキングなど
 
 ### 2Dのイラスト的な加工
 - [小樽総合デザイン事務局 初心者でもできる！写真をイラスト風に加工するチュートリアルまとめました：Photoshop](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
