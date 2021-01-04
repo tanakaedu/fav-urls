@@ -13,6 +13,7 @@
 - [岩永信之. Unityで使える C# 6.0～と .NET 4.6](https://t.co/1YKRtDKJhV)
 
 ## ポートフォリオ
+- [天穂のサクナヒメ 概要書のツイート](https://twitter.com/nal_ew/status/1343442944947195904)
 - [お高菜. デザイナー志望者は必見！ 採用されるポートフォリオを作る「た行」の法則](https://www.e-aidem.com/ch/jimocoro/entry/otakana01)
 - [望月 重太朗. た行で考える、採用ポートフォリオの作り方（主にクリエイティブ職向け）](https://note.mu/jyushok/n/n39429686354a)
 - [Chomado’s Portfolio (ちょまど)](https://chomado.com/)
