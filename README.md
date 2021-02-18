@@ -358,6 +358,8 @@
 - [Unity Blog. 最適化の最前線](https://blogs.unity3d.com/jp/2019/11/14/tales-from-the-optimization-trenches/)
 - [TextMeshPro](https://blogs.unity3d.com/jp/2018/10/16/making-the-most-of-textmesh-pro-in-unity-2018/)
 - [ML Agent 0.7.0 ブログ](https://blogs.unity3d.com/jp/2019/03/01/unity-ml-agents-toolkit-v0-7-a-leap-towards-cross-platform-inference/)
+- [LIGHT11. 【Unity】【C#】憎きGCを防ぐために！Update内でやっちゃダメなこと総まとめ](https://light11.hatenadiary.com/entry/2019/10/16/211435)
+- [LIGHT11. 【Unity】Unity2020.2から使えるC#8の機能まとめ](https://light11.hatenadiary.com/entry/2021/02/16/195929)
 
 ## Unity以外のゲームエンジン
 - [Unreal Engine4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)
