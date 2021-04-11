@@ -30,6 +30,7 @@
 - [CGWORLD.jp. 9万円台で始める3DCG！ Blender人気講師が「iiyama SENSE∞」入門向けマシンを検証](https://cgworld.jp/interview/202004-blendersense.html)
 
 ## ゲームデザイン
+- [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
 - [tnk. 「斬新さ」から考えるゲーム開発](https://speakerdeck.com/tnk1987/zhan-xin-sa-karakao-erugemukai-fa-unity1week-onlinegong-you-hui-number-1)
 - [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
 - [DeNA現役プランナーによる『ゲームプランナーの教科書』を9スライド公開！ 良いゲームはおもしろさの因数分解から生まれる](https://fullswing.dena.com/9slides-for-game-planner/)
