@@ -11,6 +11,7 @@
 - [東京大学](https://ledge.ai/ut-python/)
 - [京都大学](https://ledge.ai/kyoto-u-ac-python/)
 - [東京工業大学. 機械学習の講義ノート](https://ledge.ai/titech-ac-chokkan-github-io/)
+- [ハーバード大学](https://ledge.ai/cs50-jp/)
 
 ## 設計や言語
 - [@toRisouP. Unity開発で使える設計の話+Zenjectの紹介](https://www.slideshare.net/torisoup/unityzenject)
