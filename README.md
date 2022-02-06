@@ -284,6 +284,7 @@
 - https://opengameart.org/
 - http://pixelgameart.org/web/
 - http://kenney.nl
+- https://quaternius.com/index.html
 - https://www.patreon.com
   - クリエイター支援クラウドファンディングサービス
   - https://www.lifehacker.jp/2013/06/130602patreon.html
