@@ -147,7 +147,7 @@
 - [ひろはす ゲームクリエイター養成所. デザインの基本である配色を解説します](https://www.youtube.com/watch?v=Knpj-iEhfy4)
 - [Adobe Color. 色の作成ツールWebページ](https://color.adobe.com/ja/create/color-wheel)
 
-
+## 絵作り
 ### ドット絵
 - [Piskel](http://www.piskelapp.com/)
   - アニメーションやピクセルアートのためのフリーのオンラインエディター
@@ -170,6 +170,9 @@
   - 2D画像からPhysics用の当たり判定データを作成するツール
 - https://dotpict.net/
   - ドット絵メイキングなど
+
+### シェーダー
+- [Unity Japan. Unityとシェーダーグラフで簡単なポストエフェクトを作ってみよう！（チュートリアル動画 #1）](https://youtu.be/AQGgwgo51lo)
 
 ### 2Dのイラスト的な加工
 - [小樽総合デザイン事務局 初心者でもできる！写真をイラスト風に加工するチュートリアルまとめました：Photoshop](http://otarunet.com/it/webdesign/photoshop-photo-illustration/)
