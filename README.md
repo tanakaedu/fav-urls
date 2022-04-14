@@ -268,6 +268,7 @@
 
 ## フォント
 - [coliss. 2019年用、日本語のフリーフォントまとめ -商用サイトだけでなく紙や同人誌などの利用も明記](https://coliss.com/articles/freebies/japanese-free-fonts-for-2019.html)
+- [Fontworks. 「GoogleFonts」へディスプレイ書体など全8書体を提供しました](https://fontworks.co.jp/news/2021/01/15/9531/)
 - [フォントの試し書き](https://tameshigaki.jp/)
 - https://www.fontsquirrel.com/
   - アプリ埋め込みが可能なものから検索などが可能な英語フォント紹介サイト
