@@ -403,6 +403,8 @@
   - シンプルでも評価を得られる例
 
 ## その他
+- [Emotet(エモテット)対策](https://blogs.jpcert.or.jp/ja/2019/12/emotetfaq.html)
+  - Excelなどオフィスのマクロを開かない！
 - [ぴぃたぁそると. 絵描きにとっての一年はデカい](https://twitter.com/pe_salt/status/1132135055587926016)
 - [naichi's lab. 【初心者向け】UnityプロジェクトにGitを導入しGitHubと連携する手順](https://blog.naichilab.com/entry/unity-github)
 - [4Gamer.net CEDEC 2017:ヘキサドライブが新人教育のために導入した「若手小規模プロジェクト」とは何か](http://jp.gamesindustry.biz/article/1708/17083104/)
