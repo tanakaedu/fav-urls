@@ -32,6 +32,8 @@
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
 - [ファミ通.com. モンスターハンター：ワールド』開発を支えた“アーティストが作ったシェーダー”とは？【CEDEC 2018】](https://www.famitsu.com/news/201808/23162839.html)
 - [CGWORLD.jp. 9万円台で始める3DCG！ Blender人気講師が「iiyama SENSE∞」入門向けマシンを検証](https://cgworld.jp/interview/202004-blendersense.html)
+- [デジタル庁. ウェブアクセシビリティ導入ガイドブック](https://www.digital.go.jp/resources/introduction-to-web-accessibility-guidebook/)
+
 
 ## ゲームデザイン
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
