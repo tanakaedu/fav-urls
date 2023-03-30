@@ -60,14 +60,8 @@
 - [UNITY-CHAN! OFFICIAL WEBSITE](http://unity-chan.com/)
   - そのまま利用できるキャラクター素材が多数
   - 常識の範囲内の利用で、指定のライセンス表記を行うことで、ほぼ自由に利用することができる
-### けものフレンズ
-- [けものフレンズ](http://kemono-friends.jp/)
-  - けものフレンズ公式サイト。右上のリンクから、ライセンスについて読める
-  - 事業性が高くない作品に、自分で描いたキャラクターを登場させることができる
-  - 既存の絵をコピーするのはNG
-  - 公序良俗に反したり、アダルト系はNG
-- [チンパンジー言語訓練ブログ けものフレンズの二次創作ガイドラインについて①　～はじめに～](http://liuwusi.hatenablog.com/entry/2017/04/26/092436)
-  - けものフレンズのライセンスを中心にして、その他のライセンスについて比較して解説している
+### Creative Commons
+- [ライセンスについて](https://creativecommons.org/licenses/)
 
 ### UnityのAssetStoreのライセンス
 - https://unity3d.com/jp/legal/as_terms
