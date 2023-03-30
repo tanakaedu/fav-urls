@@ -139,6 +139,7 @@
 - [AREA JAPAN. チュートリアル / Mayaで始めるゲーム用ローポリキャラモデル](https://area.autodesk.jp/column/tutorial/maya-lowpoly/01-model-design/)
 - [STYLY VR Lab. フォトグラメトリ入門](https://styly.cc/ja/tips/photogrammetry/)
 - [背景を切り取る remove.bg](https://www.remove.bg/)
+- [画像ファイル省メモリ調整Webツール. Squoosh](https://squoosh.app/)
 
 ## グラフィックデザイン
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
@@ -225,7 +226,7 @@
 - [フリーの3Dモデリングソフト](http://mqdl.jpn.org/)
 
 ### テクスチャーなど
-- [cc0textures.com. CC0のPBRテクスチャー素材集]https://cc0textures.com/home
+- [cc0textures.com. CC0のPBRテクスチャー素材集](https://cc0textures.com/home)
 - [3dtextures.me CC0のPBRテクスチャー素材集](https://3dtextures.me/)
   - CC0とは
     - 世界全地域において著作権法上認められる、その者が持つすべての権利（その作品に関する権利や隣接する権利を含む。）を、法令上認められる最大限の範囲で放棄して、パブリック・ドメインに提供
