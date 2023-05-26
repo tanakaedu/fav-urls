@@ -51,6 +51,7 @@
 - [Palladium Soft](https://store.steampowered.com/app/1137110/Ballistic_Craft/)
 
 ## 提案書・企画書・仕様書
+- [電撃ファミニコゲーマー. 初代PSの伝説的タイトル『ガンパレード・マーチ』はなぜ生まれたのか？](https://news.denfaminicogamer.jp/projectbook/230526g)
 - [Sugimoto Chizuru, 仕様書作成の分業とリストの作成 ](https://www.slideshare.net/ChizuruSugimoto/ss-173331109?ref=https://cards-frame.twitter.com/i/cards/tfw/v1/uc/1232511224073654274)
 - [U-17未踏ジュニア提案書サンプル](https://jr.mitou.org/download)
 
