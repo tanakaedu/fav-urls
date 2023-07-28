@@ -36,6 +36,7 @@
 
 
 ## ゲームデザイン
+- [ゲームメーカーズ. アークライト 野澤 邦仁のボードゲームを作るには](https://gamemakers.jp/article/2023_04_17_36392/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
 - [tnk. 「斬新さ」から考えるゲーム開発](https://speakerdeck.com/tnk1987/zhan-xin-sa-karakao-erugemukai-fa-unity1week-onlinegong-you-hui-number-1)
 - [テラシュールブログ. はじめてゲーム開発する前に知っておくべきこと](http://tsubakit1.hateblo.jp/entry/2018/07/30/223410)
@@ -63,6 +64,7 @@
   - 常識の範囲内の利用で、指定のライセンス表記を行うことで、ほぼ自由に利用することができる
 ### Creative Commons
 - [ライセンスについて](https://creativecommons.org/licenses/)
+
 
 ### UnityのAssetStoreのライセンス
 - https://unity3d.com/jp/legal/as_terms
