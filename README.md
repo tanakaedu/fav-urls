@@ -401,6 +401,9 @@
 - https://unityroom.com/games/tunagirl
   - シンプルでも評価を得られる例
 
+## 学習支援
+- [Microsoft Training. MicroCode Arcadeで学生の学習をサポートする](https://learn.microsoft.com/ja-jp/training/modules/support-student-learning-with-makecode-arcade/resources)
+
 ## その他
 - [Emotet(エモテット)対策](https://blogs.jpcert.or.jp/ja/2019/12/emotetfaq.html)
   - Excelなどオフィスのマクロを開かない！
