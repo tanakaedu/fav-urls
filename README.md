@@ -378,8 +378,10 @@
 
 ## Unity以外のゲームエンジン
 - [Microsoft. MakeCode Arcade](https://arcade.makecode.com/)
+- [MindRender](https://mindrender.jp/)
 - [ティラノビルダー](https://b.tyrano.jp/)
 - [Godot](https://godotengine.org/)
+- [GDevelop](https://gdevelop.io/ja-jp)
 - [アクションエディター4](http://omoshiro-game.com/menu_game/ActionEditor4/)
 - [Shooting Game Builder](http://blog.livedoor.jp/stgbuilder/)
 - [Unreal Engine4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)
