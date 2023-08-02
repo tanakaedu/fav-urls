@@ -36,6 +36,7 @@
 
 
 ## ゲームデザイン
+- [だらねこ. コンセプト「から」ゲームを作るのが苦手な人に捧げる、コンセプト「で」ゲームを作る方法](https://note.com/daraneko_games/n/n797539ab97a5)
 - [ゲームメーカーズ. アークライト 野澤 邦仁のボードゲームを作るには](https://gamemakers.jp/article/2023_04_17_36392/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
 - [tnk. 「斬新さ」から考えるゲーム開発](https://speakerdeck.com/tnk1987/zhan-xin-sa-karakao-erugemukai-fa-unity1week-onlinegong-you-hui-number-1)
