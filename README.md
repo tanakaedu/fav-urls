@@ -383,6 +383,8 @@
 - [ティラノビルダー](https://b.tyrano.jp/)
 - [Godot](https://godotengine.org/)
 - [GDevelop](https://gdevelop.io/ja-jp)
+- [Defold](https://defold.com/) Lue / 2D and 3D
+- [Light.vn](https://lightvn.net/) ノベル。独自の日本語言語
 - [アクションエディター4](http://omoshiro-game.com/menu_game/ActionEditor4/)
 - [Shooting Game Builder](http://blog.livedoor.jp/stgbuilder/)
 - [Unreal Engine4](https://www.unrealengine.com/ja/what-is-unreal-engine-4)
@@ -391,8 +393,6 @@
 ### 評価中
 - [Amazon Lumberyard](https://aws.amazon.com/jp/lumberyard/)
   - 高性能そうだがβ版
-- [defold](https://forum.defold.com/)
-  - 新しく採用実績が不明
 - [Egret Engine](https://www.egret.com/en/products/engine.html)
   - 中国発のHTML5ゲームエンジン
 - [Phaser](https://phaser.io/)
