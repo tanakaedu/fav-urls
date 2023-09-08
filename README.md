@@ -299,7 +299,7 @@
 - [テクスチャー関連を公開している](https://www.textures.com)
 
 ## オーディオ / サウンド
-### 素材
+### 素材、再生
 - [魔法魂](http://maoudamashii.jokersounds.com/)
 - [効果音ラボ](http://soundeffect-lab.info/)
 - [甘茶の音楽工房](http://amachamusic.chagasi.com/)
@@ -307,6 +307,7 @@
 - [音楽の卵](http://ontama-m.com/)
 - [フリーの音楽・効果音素材サイト「Soundrium」](https://miacat.net/2018/12/02/post-2217/)
 - [PANICPUMPKIN ファミコン風オリジナル音楽](http://pansound.com/panicpumpkin/)
+- [A.I.VOICE](https://aivoice.jp/games/howto/)
 
 ### 自作
 - [kanのメモ帳. パラメーター調整で好みの音へ簡単にカスタマイズできるファンタジー系効果音作成ツール DSP Fantasy](https://kan-kikuchi.hatenablog.com/entry/DSP_Fantasy)
@@ -379,9 +380,10 @@
 
 ## Unity以外のゲームエンジン
 - [ティラノビルダー](https://b.tyrano.jp/)
-- [RAPTEX](https://raptex.jp/)
-- [GDevelop](https://gdevelop.io/ja-jp)
 - [MindRender](https://mindrender.jp/)
+- [RAPTEX](https://raptex.jp/)
+- [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
+- [GDevelop](https://gdevelop.io/ja-jp)
 - [Microsoft. MakeCode Arcade](https://arcade.makecode.com/)
 - [Light.vn](https://lightvn.net/) ノベル。独自の日本語言語
 - [Godot](https://godotengine.org/)
