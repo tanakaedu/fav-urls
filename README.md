@@ -384,6 +384,7 @@
 - [RAPTEX](https://raptex.jp/)
 - [WOLF RPGエディター](https://www.silversecond.com/WolfRPGEditor/)
 - [GDevelop](https://gdevelop.io/ja-jp)
+- [Siv3D](https://siv3d.github.io/ja-jp/)
 - [Microsoft. MakeCode Arcade](https://arcade.makecode.com/)
 - [Light.vn](https://lightvn.net/) ノベル。独自の日本語言語
 - [Godot](https://godotengine.org/)
