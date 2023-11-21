@@ -96,6 +96,9 @@
 
 ## シェーダー
 - [Shadertoy. 投稿されたシェーダーを共有しているサイト](https://www.shadertoy.com/)
+- [The Book of Shaders](https://thebookofshaders.com/)
+  - [Processing](https://processing.org/)
+    - The Book of Shadersでコードの書き方を学びたい場合に推奨されている
 - [deviantart.com. エフェクトが沢山ある](https://www.deviantart.com/morelikethis/566479100)
 - [SEGA TECH BLOG. TAが勉強を兼ねてモバイル向け電光掲示板シェーダー書いてみた](http://techblog.sega.jp/entry/2017/11/27/100000)
 - [汗人柱. ノードベースでシェーダ作りのAmplifyを触ってみました。エディタの操作性、学習コスト、サンプルデモを大量に紹介！](http://assetsale.hateblo.jp/entry/Amplify_Shader_Editor)
