@@ -144,6 +144,9 @@
 - [背景を切り取る remove.bg](https://www.remove.bg/)
 - [画像ファイル省メモリ調整Webツール. Squoosh](https://squoosh.app/)
 
+### Blender
+- [Blender Studio. Animation Fundamentals](https://studio.blender.org/training/animation-fundamentals/)
+
 ## グラフィックデザイン
 - [PHOTOSHOPVIP. 現役デザイナーが教える！完璧な書体を決める10個の黄金ルールまとめ](http://photoshopvip.net/105840?utm_content=bufferf79a8&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)
 - [個人開発のUI設計術](https://crieit.net/posts/UI)
