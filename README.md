@@ -109,6 +109,7 @@
 
 ## Godot
 - [Learn GDScript From ZERO](https://gdquest.github.io/learn-gdscript/)
+- [FRAME SYNTHESIS. Godot 4メモ](https://tech.framesynthesis.co.jp/godot/)
 
 ## Webゲーム開発
 - [フレンズひらたソフト. よくわかるPhotonの仕組みハンズオン！](http://friends-hirata-soft.com/%E3%82%88%E3%81%8F%E3%82%8F%E3%81%8B%E3%82%8Bphoton%E3%81%AE%E4%BB%95%E7%B5%84%E3%81%BF%E3%83%8F%E3%83%B3%E3%82%BA%E3%82%AA%E3%83%B3%EF%BC%81/)
