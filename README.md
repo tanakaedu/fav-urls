@@ -244,6 +244,7 @@
 - [cgbookcase.com CC0のテクスチャー](https://www.cgbookcase.com/)
 
 ### その他
+- [10日で開発したL・トーバルズ氏も想定外？--「Git」誕生から20年、定番VCSの軌跡とその影響](https://japan.zdnet.com/article/35231917/)
 - [『THE COMPREHENSIVE PBR GUIDE Volume 1: The Theory of PBR by Allegorithmic』私家訳版](https://www.slideshare.net/nyaakobayashi/pbr-guide-vol1jp)
 - [『THE COMPREHENSIVE PBR GUIDE – Vol. 2: Practical guidelines for creating PBR textures 』私家訳版](https://www.slideshare.net/nyaakobayashi/70100srgb180255?ref=http://3dnchu.com/archives/allegorithmic-pbr-guide-vol2-jp/)
 - [Unityライティングのチュートリアル](https://www.youtube.com/watch?v=VnG2gOKV9dw&feature=youtu.be)
