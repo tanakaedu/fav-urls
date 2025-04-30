@@ -37,6 +37,7 @@
 
 ## ゲームデザイン
 - [あるベテランゲーム業界人が「ゲーム開発における42の鉄則」を提唱するも、内容に賛否渦巻く。ただし“疑ってもらうこと”に狙いあり](https://automaton-media.com/articles/newsjp/gamedev-20250419-335730/)
+- [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
 - [だらねこ. コンセプト「から」ゲームを作るのが苦手な人に捧げる、コンセプト「で」ゲームを作る方法](https://note.com/daraneko_games/n/n797539ab97a5)
 - [ゲームメーカーズ. アークライト 野澤 邦仁のボードゲームを作るには](https://gamemakers.jp/article/2023_04_17_36392/)
 - [Jesse Schell's ゲームデザインレンズデッキ](http://deck.artofgamedesign.com/#/?lang=jp)
