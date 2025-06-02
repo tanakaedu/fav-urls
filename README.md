@@ -27,8 +27,8 @@
 - [Marie Dealessandri. ビデオゲームライターになるための簡易ガイド](https://jp.gamesindustry.biz/article/2004/20040103/)
 
 ## デザイナー向けニュース
+- [CGWORLD.jp. セガの新人研修を紐解く](https://cgworld.jp/article/202505-cgkiso-1.html)
 - [CGWORLD.jp. UnityによるリアルタイムCGを全面的に採用、アクションRPG『メガスマッシュ』PV](https://twitter.com/CGWjp/status/987202477798768641)
-
 - [CGWORLD.jp. 海外のゲームスタジオはデザイナーをどのように募集するのか？　課題サンプルも大公開〜GDC 2018レポート（2）〜](https://cgworld.jp/feature/201804-gdc2018pt2.html)
 - [ファミ通.com. モンスターハンター：ワールド』開発を支えた“アーティストが作ったシェーダー”とは？【CEDEC 2018】](https://www.famitsu.com/news/201808/23162839.html)
 - [CGWORLD.jp. 9万円台で始める3DCG！ Blender人気講師が「iiyama SENSE∞」入門向けマシンを検証](https://cgworld.jp/interview/202004-blendersense.html)
