@@ -370,7 +370,8 @@
 - [BanditDungeon](https://github.com/Unity-Technologies/BanditDungeon)
 
 ## プログラミング
-### アルゴリズム
+
+- [Robert Nystrom. Game Programming Patterns](https://gameprogrammingpatterns.com/)
 - [++C++; // 未確認飛行 C. アルゴリズムとデータ構造](http://ufcpp.net/study/algorithm/)
 - [yukicoder](https://yukicoder.me/)
   - 競技プログラミング・アルゴリズムを練習する目的で運営されているサイト
