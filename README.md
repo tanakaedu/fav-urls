@@ -429,6 +429,7 @@
 - [Microsoft Training. MicroCode Arcadeで学生の学習をサポートする](https://learn.microsoft.com/ja-jp/training/modules/support-student-learning-with-makecode-arcade/resources)
 
 ## その他
+- [AUTOMATON. ゲーム開発者の「力業実装テクニック紹介」が賑わう。鏡の反射用に“キャラと背景そのままコピー”などかなり大胆](https://automaton-media.com/articles/newsjp/game-dev-20250728-350864/)
 - [Emotet(エモテット)対策](https://blogs.jpcert.or.jp/ja/2019/12/emotetfaq.html)
   - Excelなどオフィスのマクロを開かない！
 - [ぴぃたぁそると. 絵描きにとっての一年はデカい](https://twitter.com/pe_salt/status/1132135055587926016)
