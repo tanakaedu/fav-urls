@@ -36,6 +36,7 @@
 
 
 ## ゲームデザイン
+- [GIGAZINE. 1000年前のヴァイキングが愛した伝説のボードゲーム「ネファタフル」とは？](https://gigazine.net/news/20180630-hnefatafl-viking-history/)
 - [あるベテランゲーム業界人が「ゲーム開発における42の鉄則」を提唱するも、内容に賛否渦巻く。ただし“疑ってもらうこと”に狙いあり](https://automaton-media.com/articles/newsjp/gamedev-20250419-335730/)
 - [遠藤雅伸. ゲーム道に通じるユーザーの振る舞いとゲームデザインへの応用](https://www.teu.ac.jp/ap_page/koukai/2019_03_3endo.pdf)
 - [AUTOMATON. ベテランゲーム開発者が「ディレクター・プロデューサーとしての心得のコツ」を共有。基本的だけど大事なステップ](https://automaton-media.com/articles/newsjp/game-dev-20250514-338937/)
